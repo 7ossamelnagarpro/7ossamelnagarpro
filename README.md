@@ -29,25 +29,10 @@
 
 ## 🧠 About Me
 
-```python
-hossam = {
-    "name"        : "Hossam El-Nagar",
-    "role"        : ["Data Analyst", "ML Engineer", "Deep Learning Enthusiast"],
-    "location"    : "Cairo, Egypt 🇪🇬",
-    "currently"   : ["Building end-to-end ML pipelines",
-                     "Fine-tuning Transformers (NLP)",
-                     "Open to new opportunities 🚀"],
-    "stack"       : {
-        "analysis"  : ["Pandas", "NumPy", "SQL", "Plotly", "Streamlit"],
-        "ml"        : ["Scikit-learn", "XGBoost", "MLflow"],
-        "dl"        : ["PyTorch", "TensorFlow", "HuggingFace", "Keras"],
-        "deploy"    : ["FastAPI", "Docker", "GitHub Actions"],
-    },
-    "fun_fact"    : "I debug better with coffee ☕ and lo-fi music 🎧",
-}
-```
-
----
+🪪 **Name —** Hossam El-Nagar
+💼 **Title —** Data Analyst & ML Engineer
+📍 **Location —** Cairo, Egypt 🇪🇬
+🎓 **Experience —** Python · SQL · Machine Learning · Deep Learning
 
 ## 🛠️ Tech Stack
 

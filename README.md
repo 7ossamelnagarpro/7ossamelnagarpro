@@ -29,10 +29,17 @@
 
 ## 🧠 About Me
 
-🪪 **Name —** Hossam El-Nagar
-💼 **Title —** Data Analyst & ML Engineer
-📍 **Location —** Cairo, Egypt 🇪🇬
-🎓 **Experience —** Python · SQL · Machine Learning · Deep Learning
+🪪 **Name**
+Hossam El-Nagar
+
+💼 **Title**
+Data Analyst & ML Engineer
+
+📍 **Location**
+Cairo, Egypt 🇪🇬
+
+🎓 **Experience**
+Python · SQL · Machine Learning · Deep Learning
 
 ## 🛠️ Tech Stack
 

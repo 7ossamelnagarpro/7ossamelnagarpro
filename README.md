@@ -36,7 +36,7 @@
 :Data Analyst & ML Engineer
 
 📍 **Location**
-:Cairo, Egypt 🇪🇬
+:Cairo, Egypt
 
 🎓 **Experience**
 :Python · SQL · Machine Learning · Deep Learning

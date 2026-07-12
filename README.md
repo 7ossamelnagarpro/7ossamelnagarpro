@@ -18,31 +18,27 @@
 
 Building Agentic AI • NLP • RAG • Automation
 
-</div>
 <div align="center">
 
-<a href="https://www.linkedin.com/in/h-elnagar/?skipRedirect=true">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/h-elnagar/?skipRedirect=true" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="hossam.elnagar.pro@gmail.com">
-  
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:hossam.elnagar.pro@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/7ossamelnagarpro">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.kaggle.com/hossammohamedelnagar" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
-<a href="https://www.kaggle.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="https://huggingface.co/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<a href="https://huggingface.co/7ossamds" target="_blank">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
 
 </div>
+
+<br>
 
 ## 👨‍💻 About Me
 

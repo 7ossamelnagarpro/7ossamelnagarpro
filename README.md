@@ -100,3 +100,9 @@ I believe in continuous learning and building practical projects that combine **
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
 
 </p>
+
+## 🚀 Deployment & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,docker,vscode,github,postman" />
+</p>

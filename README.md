@@ -4,6 +4,11 @@
 
 </div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=06B6D4&center=true&vCenter=true&width=850&lines=Building+Agentic+AI+Systems;Developing+RAG+Applications;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+%7C+NLP;Always+Learning+New+Technologies+🚀)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
 

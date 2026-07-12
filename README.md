@@ -81,3 +81,22 @@ I believe in continuous learning and building practical projects that combine **
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
+
+
+## 🧠 LLMs & Agentic AI
+
+<p>
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LlamaIndex-6A5ACD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ChromaDB-7B68EE?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
+
+</p>

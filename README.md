@@ -41,15 +41,23 @@ Building Agentic AI • NLP • RAG • Automation
 <br>
 
 
-## 👨‍💻 About Me
+---
+
+# 👨‍💻 About Me
 
 I'm **Hossam Elnagar**, a **Data Analyst & Applied AI Engineer** from Egypt 🇪🇬.
 
-I enjoy transforming data into intelligent solutions through **Machine Learning, NLP, Agentic AI, and Automation**.
+I enjoy transforming raw data into intelligent solutions using **Python, SQL, Machine Learning, and Applied AI**. My current focus is on building **Agentic AI systems, RAG applications, AI automations, and data-driven solutions** that solve real-world problems.
 
-Currently, I'm building real-world AI applications using **Python, SQL, Power BI, LangChain, Hugging Face, and FastAPI**, with a focus on solving practical business problems.
+I believe in continuous learning and building practical projects that combine **Data Analytics, Artificial Intelligence, and Automation**.
 
-- 🌱 Currently learning **LLMs, RAG, Agentic AI, and MLOps**
-- 🚀 Interested in **AI Automation, Data Analytics, and Intelligent Systems**
-- 💬 Ask me about **Python, SQL, Power BI, NLP, and Machine Learning**
-- 📫 Reach me at **YOUR_EMAIL**
+### 🚀 Current Focus
+
+- 🤖 Building Agentic AI Applications
+- 🧠 Large Language Models (LLMs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ AI Automations & Workflow Design
+- 🌐 Web Scraping & Data Collection
+- 📊 Data Analytics & Business Intelligence
+
+---

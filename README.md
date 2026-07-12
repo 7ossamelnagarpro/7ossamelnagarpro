@@ -66,3 +66,13 @@ I believe in continuous learning and building practical projects that combine **
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,bash" />
 </p>
+## 📊 Data Analytics
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>

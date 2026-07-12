@@ -61,3 +61,8 @@ I believe in continuous learning and building practical projects that combine **
 - 📊 Data Analytics & Business Intelligence
 
 ---
+## 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,bash" />
+</p>

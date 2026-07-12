@@ -40,6 +40,7 @@ Building Agentic AI • NLP • RAG • Automation
 
 <br>
 
+
 ## 👨‍💻 About Me
 
 I'm **Hossam Elnagar**, a **Data Analyst & Applied AI Engineer** from Egypt 🇪🇬.

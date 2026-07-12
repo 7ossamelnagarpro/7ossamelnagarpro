@@ -21,7 +21,7 @@ Building Agentic AI • NLP • RAG • Automation
 </div>
 <div align="center">
 
-<a href="https://www.linkedin.com/in/h-elnagar">
+<a href="https://www.linkedin.com/in/h-elnagar/?skipRedirect=true">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

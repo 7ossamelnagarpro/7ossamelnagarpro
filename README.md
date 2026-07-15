@@ -69,3 +69,136 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Azure**, **Az
 - 🐍 Python for Data Analytics & AI
 
 ---
+
+# 🚀 Professional Profile
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Professional Identity
+
+- 📊 Data Analyst
+- 📈 BI Developer
+- 🤖 AI Automation Engineer
+
+### 🌱 Currently Learning
+
+- Microsoft Azure
+- Azure AI Services
+- Microsoft Fabric
+- AI Automation
+- Machine Learning
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💼 Core Expertise
+
+- 📊 Exploratory Data Analysis (EDA)
+- 🧹 Data Cleaning
+- ⚙️ Data Preprocessing
+- 📈 Dashboard Development
+- 🗄 SQL Development
+- 🤖 RAG Systems
+- ⚡ AI Automation with n8n
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠 Tech Stack
+
+## 📊 Data Analytics
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="45"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="45"/>
+</p>
+
+---
+
+## 🗄 Database
+
+<p align="left">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mssqlserver" height="45"/>
+</p>
+
+---
+
+## 📈 Business Intelligence
+
+<p align="left">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" height="45"/>
+</p>
+
+---
+
+## ☁ Cloud
+
+<p align="left">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=azure" height="45"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=fabric" height="45"/>
+</p>
+
+---
+
+## 🤖 AI & Automation
+
+- 🧠 Retrieval-Augmented Generation (RAG)
+
+- ⚡ AI Automation using n8n
+
+- 🤖 Prompt Engineering
+
+- 💬 Large Language Models (LLMs)
+
+---
+
+## 🧰 Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/>
+</p>
+
+---
+
+# 🏆 Microsoft Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft-PL--300-blue?style=for-the-badge&logo=microsoft"/>
+
+<img src="https://img.shields.io/badge/Microsoft-DP--600-green?style=for-the-badge&logo=microsoft"/>
+
+</p>
+
+---
+
+# 💡 What I Can Build
+
+✔ End-to-End Data Analytics Projects
+
+✔ Business Intelligence Dashboards
+
+✔ SQL Database Solutions
+
+✔ Interactive Power BI Reports
+
+✔ Data Cleaning & Preprocessing Pipelines
+
+✔ Exploratory Data Analysis (EDA)
+
+✔ AI-Powered RAG Applications
+
+✔ AI Automation Workflows using n8n
+
+✔ Microsoft Fabric Analytics Solutions
+
+✔ Azure AI Projects
+
+---

@@ -168,7 +168,7 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Azure**, **Az
 
 <td align="center" width="50%">
 
-<img src="1783317455209.png"/>
+<img src="Fabric Analytics Engineer Associate.png"/>
 
 ### Microsoft Certified
 
@@ -180,7 +180,7 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Azure**, **Az
 
 <td align="center" width="50%">
 
-<img src="images/dp600.png" width="280"/>
+<img src="1783317455209.png"/>
 
 ### Microsoft Certified
 

@@ -61,46 +61,6 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Azure**, **Az
 
 ---
 
-# 🚀 Professional Profile
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Professional Identity
-
-- 📊 Data Analyst
-- 📈 BI Developer
-- 🤖 AI Automation Engineer
-
-### 🌱 Currently Learning
-
-- Microsoft Azure
-- Azure AI Services
-- Microsoft Fabric
-- AI Automation
-- Machine Learning
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💼 Core Expertise
-
-- 📊 Exploratory Data Analysis (EDA)
-- 🧹 Data Cleaning
-- ⚙️ Data Preprocessing
-- 📈 Dashboard Development
-- 🗄 SQL Development
-- 🤖 RAG Systems
-- ⚡ AI Automation with n8n
-
-</td>
-</tr>
-</table>
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">

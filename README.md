@@ -159,16 +159,21 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Azure**, **Az
 
 ---
 
-# 🏆 Microsoft Certifications
+## 🏅 Microsoft Certifications
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Microsoft-PL--300-blue?style=for-the-badge&logo=microsoft"/>
+<a href="images/pl300-certificate.png">
+<img src="images/pl300-certificate.png" width="420"/>
+</a>
 
-<img src="https://img.shields.io/badge/Microsoft-DP--600-green?style=for-the-badge&logo=microsoft"/>
+<br><br>
 
-</p>
+<a href="images/dp600-certificate.png">
+<img src="images/dp600-certificate.png" width="420"/>
+</a>
 
+</div>
 ---
 
 # 🚀 Featured Projects

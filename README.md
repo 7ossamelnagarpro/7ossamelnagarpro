@@ -64,3 +64,47 @@ I enjoy combining **SQL**, **Python**, **Power BI**, **Microsoft Fabric**, **Azu
 </td>
 </tr>
 </table>
+
+## 🛠️ Tech Stack
+
+### 📊 Data Analytics
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" />
+</p>
+
+### 📈 Business Intelligence
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mssqlserver" />
+</p>
+
+### ☁️ Cloud & Data Platform
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=azure" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=fabric" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" />
+</p>
+
+### ⚙️ Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>

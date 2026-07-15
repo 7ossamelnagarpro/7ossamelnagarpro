@@ -168,7 +168,7 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Azure**, **Az
 
 <td align="center" width="50%">
 
-<img src="images/pl300.png" width="280"/>
+<img src="1783317455209.jfif"/>
 
 ### Microsoft Certified
 

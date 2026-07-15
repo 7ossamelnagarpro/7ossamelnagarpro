@@ -19,3 +19,11 @@
 ### Building End-to-End Data & AI Solutions — From Raw Data to Intelligent Insights & Automation.
 
 </div>
+
+## 👨‍💻 About Me
+
+I'm **Hossam Elnagar**, a **Data Analyst**, **BI Developer**, and **AI Automation Engineer** passionate about transforming raw data into meaningful insights and intelligent solutions.
+
+My work focuses on the complete data journey—from collecting and preparing data to building interactive dashboards, developing machine learning models, and creating AI-powered automation workflows that solve real-world business problems.
+
+I enjoy combining **SQL**, **Python**, **Power BI**, **Microsoft Fabric**, **Azure**, and **AI technologies** to deliver scalable, data-driven solutions and continuously expand my expertise in modern Data & AI ecosystems.

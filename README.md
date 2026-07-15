@@ -156,6 +156,7 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Azure**, **Az
 </p>
 
 </div>
+
 ---
 
 # 🏆 Microsoft Certifications

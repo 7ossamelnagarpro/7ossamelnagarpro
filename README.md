@@ -129,3 +129,13 @@ I enjoy combining **SQL**, **Python**, **Power BI**, **Microsoft Fabric**, **Azu
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </p>
+
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| 📊 **E-Commerce Sales Analytics** | End-to-end EDA, Data Cleaning, Feature Engineering & Business Insights | Python, Pandas, Matplotlib |
+| 📈 **Power BI Executive Dashboard** | Interactive business dashboard with KPIs and DAX measures | Power BI, DAX |
+| 🏥 **Hospital Management Database** | SQL Server database with ERD, normalization, stored procedures & triggers | SQL Server |
+| 🤖 **BBC News RAG System** | AI-powered Retrieval-Augmented Generation application | Python, ChromaDB, LLM |
+| ⚙️ **AI Automation with n8n** | Automated AI workflows integrating LLMs and business processes | n8n, AI |

@@ -348,19 +348,6 @@ Classification & Prediction Projects
 </table>
 
 
-
-
-# 🏆 Microsoft Certifications
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/PL--300-Power%20BI%20Data%20Analyst-blue?style=for-the-badge&logo=microsoft"/>
-
-<img src="https://img.shields.io/badge/DP--600-Fabric%20Analytics%20Engineer-green?style=for-the-badge&logo=microsoft"/>
-
-</p>
-
-
 ---
 
 <div align="center">

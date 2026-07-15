@@ -171,30 +171,6 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Azure**, **Az
 
 ---
 
-# 💡 What I Can Build
-
-✔ End-to-End Data Analytics Projects
-
-✔ Business Intelligence Dashboards
-
-✔ SQL Database Solutions
-
-✔ Interactive Power BI Reports
-
-✔ Data Cleaning & Preprocessing Pipelines
-
-✔ Exploratory Data Analysis (EDA)
-
-✔ AI-Powered RAG Applications
-
-✔ AI Automation Workflows using n8n
-
-✔ Microsoft Fabric Analytics Solutions
-
-✔ Azure AI Projects
-
----
-
 # 🚀 Featured Projects
 
 <table>

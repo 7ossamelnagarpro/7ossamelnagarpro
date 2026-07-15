@@ -202,3 +202,147 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Azure**, **Az
 ✔ Azure AI Projects
 
 ---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 📊 E-Commerce Sales Analytics
+
+End-to-End Data Analytics project covering:
+
+- Data Cleaning
+- EDA
+- Feature Engineering
+- Business Insights
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Matplotlib`
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📈 Power BI Dashboard
+
+Interactive Business Dashboard with:
+
+- KPIs
+- DAX
+- Power Query
+- Visual Storytelling
+
+**Tech Stack**
+
+`Power BI` `DAX`
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏥 Hospital Management System
+
+Complete SQL Server Database Project
+
+- ERD
+- Database Design
+- Stored Procedures
+- Triggers
+- Views
+
+**Tech Stack**
+
+`SQL Server`
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 BBC News RAG System
+
+AI-powered Retrieval-Augmented Generation System
+
+- Chunking
+- Embeddings
+- Vector Database
+- LLM
+
+**Tech Stack**
+
+`Python` `RAG`
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ⚡ AI Automation
+
+AI Workflows built using n8n
+
+- AI Agents
+- APIs
+- LLM Integration
+- Automation
+
+**Tech Stack**
+
+`n8n`
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧠 Machine Learning
+
+Classification & Prediction Projects
+
+- Data Preprocessing
+- Model Training
+- Evaluation
+- Feature Importance
+
+**Tech Stack**
+
+`Python` `Scikit-Learn`
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>

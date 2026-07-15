@@ -381,3 +381,11 @@ Classification & Prediction Projects
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=7ossamelnagarpro&theme=github-compact"/>
 
 </p>
+
+# 🎯 Career Goals
+
+- 📊 Build impactful Data Analytics solutions.
+- 📈 Deliver Business Intelligence dashboards for decision-making.
+- ☁ Master Microsoft Fabric & Azure Data Services.
+- 🤖 Develop AI-powered automation systems.
+- 🧠 Grow toward becoming a Data Scientist.

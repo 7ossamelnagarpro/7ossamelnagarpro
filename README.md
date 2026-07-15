@@ -389,3 +389,15 @@ Classification & Prediction Projects
 - ☁ Master Microsoft Fabric & Azure Data Services.
 - 🤖 Develop AI-powered automation systems.
 - 🧠 Grow toward becoming a Data Scientist.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+**Let's build intelligent solutions together. 🚀**
+
+</div>

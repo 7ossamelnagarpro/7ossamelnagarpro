@@ -348,21 +348,7 @@ Classification & Prediction Projects
 </table>
 
 
-# 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=7ossamelnagarpro&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ossamelnagarpro&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=7ossamelnagarpro&theme=github-dark&hide_border=true"/>
-
-</p>
 
 # 🏆 Microsoft Certifications
 

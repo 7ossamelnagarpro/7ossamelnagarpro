@@ -110,53 +110,61 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Azure**, **Az
 
 ---
 
-# 🛠 Tech Stack
+## 💻 Tech Stack
 
-## 📊 Data Analytics
+<div align="center">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="45"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="45"/>
+### 📊 Data Analytics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🗄 Database
+### 🗄 Databases
 
-<p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mssqlserver" height="45"/>
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
 
-## 📈 Business Intelligence
+### 📈 Business Intelligence
 
-<p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" height="45"/>
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ---
 
-## ☁ Cloud
+### ☁ Cloud & Data Platform
 
-<p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=azure" height="45"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=fabric" height="45"/>
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-6F2DBD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
 ---
 
-## 🤖 AI & Automation
+### 🤖 AI & Automation
 
-- 🧠 Retrieval-Augmented Generation (RAG)
+<p>
+  <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge"/>
+</p>
 
-- ⚡ AI Automation using n8n
-
-- 🤖 Prompt Engineering
-
-- 💬 Large Language Models (LLMs)
-
+</div>
 ---
 
 ## 🧰 Development Tools

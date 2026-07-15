@@ -165,8 +165,8 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Azure**, **Az
 
 | Certification | Credential |
 | :--- | :---: |
-| **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** | <a href="assets/certifications/pl300-certificate.png">📄 View Certificate</a> |
-| **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)** | <a href="assets/certifications/dp600-certificate.png">📄 View Certificate</a> |
+| **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** | <a href="1783317455209.png">📄 View Certificate</a> |
+| **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)** | <a href="Fabric Analytics Engineer Associate.png">📄 View Certificate</a> |
 
 </div>
 ---

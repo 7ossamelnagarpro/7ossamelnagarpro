@@ -134,7 +134,7 @@ I enjoy building practical, scalable, and data-driven solutions while continuous
 
 | Repository                                                                                     | Description                                           |
 | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| **[Hospital Management System]([https://github.com/7ossamelnagarpro/YOUR_HOSPITAL_REPOSITORY](https://github.com/7ossamelnagarpro/Hospital-Management-System-SQL.git))** | SQL Server Database Design & Implementation           |
+| **[Hospital Management System](https://github.com/7ossamelnagarpro/Hospital-Management-System-SQL.git)** | SQL Server Database Design & Implementation           |
 | **[EDA Project](https://github.com/7ossamelnagarpro/YOUR_EDA_REPOSITORY)**                     | End-to-End Data Cleaning, EDA & Business Insights     |
 | **[Power BI Dashboard](https://github.com/7ossamelnagarpro/YOUR_POWERBI_REPOSITORY)**          | Interactive Business Intelligence Dashboard           |
 | **[Machine Learning Project](https://github.com/7ossamelnagarpro/YOUR_ML_REPOSITORY)**         | Machine Learning Classification Project               |

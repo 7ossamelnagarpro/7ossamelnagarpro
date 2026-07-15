@@ -167,14 +167,6 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Azure**, **Az
 </div>
 ---
 
-## 🧰 Development Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/>
-</p>
-
----
-
 # 🏆 Microsoft Certifications
 
 <p align="center">

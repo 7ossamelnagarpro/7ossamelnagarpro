@@ -47,26 +47,17 @@ I build **end-to-end data projects** that cover the complete analytics lifecycle
 - 📥 Data Collection
 - 🧹 Data Cleaning
 - 📊 Exploratory Data Analysis (EDA)
+- 🐍 Python for Data Analytics & AI
 - ⚙️ Data Preprocessing
 - 📈 Power BI Dashboards
+- ☁ Microsoft Fabric Solutions
+- 📊 End-to-End Data Analytics Projects
 - 🗄 SQL Database Solutions
 - 🤖 Machine Learning
 - 🧠 Retrieval-Augmented Generation (RAG)
-- ⚡ AI Automation using n8n
+- ⚡ AI Automation Workflows using n8n
 
 I'm continuously expanding my expertise in **Microsoft Fabric**, **Azure**, **Azure AI**, and modern Data & AI technologies while building real-world portfolio projects.
-
----
-
-# 🚀 What I'm Currently Working On
-
-- 📊 End-to-End Data Analytics Projects
-- 📈 Interactive Power BI Dashboards
-- ☁ Microsoft Fabric Solutions
-- ☁ Azure & Azure AI
-- 🤖 AI Automation Workflows
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 🐍 Python for Data Analytics & AI
 
 ---
 

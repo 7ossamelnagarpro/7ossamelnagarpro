@@ -131,6 +131,8 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Microsoft Azu
 - ☁️ **Microsoft Certified: Fabric Analytics Engineer Associate** (`DP-600`)  
   ↳ 📄 [View Certificate](Fabric%20Analytics%20Engineer%20Associate.png)
 
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2F81F7&height=3"/>
+
 # 🚀 Featured Projects
 
 <table>

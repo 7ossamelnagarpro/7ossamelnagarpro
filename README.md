@@ -7,6 +7,7 @@
 ### Data Analyst • BI Developer • AI Automation Engineer
 
 ### Turning Data into Insights with Analytics, Business Intelligence & AI Automation
+</div>
 
 
 # 👨‍💻 About Me

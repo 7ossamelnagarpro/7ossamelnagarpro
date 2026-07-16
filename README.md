@@ -40,59 +40,43 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Azure**, **Az
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-### 📊 Data Analytics
-
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
+### Data Analytics
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" />
 </p>
 
----
-
-### 🗄 Databases
-
+### Visualization
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" />
 </p>
 
----
-
-### 📈 Business Intelligence
-
+### Database
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mssqlserver" />
 </p>
 
----
-
-### ☁ Cloud & Data Platform
-
+### Cloud
 <p>
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-6F2DBD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=azure" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=fabric" />
 </p>
 
----
-
-### 🤖 AI & Automation
-
+### AI
 <p>
-  <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=n8n" />
 </p>
 
-</div>
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 

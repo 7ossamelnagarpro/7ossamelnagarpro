@@ -9,9 +9,6 @@
 ### Turning Data into Insights with Analytics, Business Intelligence & AI Automation
 
 
----
-
-
 # 👨‍💻 About Me
 
 I'm **Hossam Elnagar**, a passionate **Data Analyst**, **Business Intelligence Developer**, and **AI Automation Engineer** dedicated to transforming raw data into actionable insights and intelligent business solutions.
@@ -24,14 +21,14 @@ I build **end-to-end data projects** that cover the complete analytics lifecycle
 - 🐍 Python for Data Analytics & AI
 - ⚙️ Data Preprocessing
 - 📈 Power BI Dashboards
-- ☁ Microsoft Fabric Solutions
+- ☁️ Microsoft Fabric Solutions
 - 📊 End-to-End Data Analytics Projects
-- 🗄 SQL Database Solutions
+- 🗄️ SQL Database Solutions
 - 🤖 Machine Learning
 - 🧠 Retrieval-Augmented Generation (RAG)
 - ⚡ AI Automation Workflows using n8n
 
-I'm continuously expanding my expertise in **Microsoft Fabric**, **Azure**, **Azure AI**, and modern Data & AI technologies while building real-world portfolio projects.
+I'm continuously expanding my expertise in **Microsoft Fabric**, **Microsoft Azure**, **Azure AI**, and modern Data & AI technologies while building real-world portfolio projects.
 
 ---
 

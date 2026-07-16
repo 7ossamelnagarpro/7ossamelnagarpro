@@ -6,15 +6,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2F81F7&height=3"/>
 </p>
 
+## 🌐 Connect With Me
+
+<p align="center">
+
 <a href="https://www.linkedin.com/in/h-elnagar/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:hossam.elnagar.pro@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
 </p>
 

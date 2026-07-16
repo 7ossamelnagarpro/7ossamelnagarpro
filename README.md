@@ -2,6 +2,7 @@
 <div align="center">
 
 <img src="t.gif" />
+
 # Hi, I'm Hossam Elnagar
 
 ### Data Analyst • BI Developer • AI Automation Engineer

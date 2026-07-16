@@ -38,46 +38,27 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Azure**, **Az
 
 ---
 
-## 💻 Tech Stack
+💻 Tech Stack
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+🐍 Python
 
-### Data Analytics
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" />
-</p>
+📊 Data Analysis
+Pandas • NumPy • Matplotlib • Seaborn
 
-### Visualization
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" />
-</p>
+📈 Business Intelligence
+Power BI • Excel
 
-### Database
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mssqlserver" />
-</p>
+🗄 Database
+SQL Server
 
-### Cloud
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=azure" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=fabric" />
-</p>
+☁ Cloud
+Microsoft Azure • Microsoft Fabric
 
-### AI
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=n8n" />
-</p>
+🤖 AI
+Azure AI • Machine Learning • RAG • n8n
 
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
+🛠 Tools
+Git • GitHub • VS Code
 ---
 
 ## 🏅 Certifications

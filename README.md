@@ -8,10 +8,6 @@
 
 ### Turning Data into Insights with Analytics, Business Intelligence & AI Automation
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=900&lines=Data+Analytics;Business+Intelligence;Power+BI+Developer;SQL+Developer;AI+Automation+Engineer;Microsoft+Fabric+%26+Azure;Building+Real+World+Projects" alt="Typing SVG" />
-
-</div>
-
 ---
 
 

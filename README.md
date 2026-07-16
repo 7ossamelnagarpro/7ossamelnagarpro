@@ -10,13 +10,17 @@
 
 <p align="left">
 
-<a href="mailto:hossam.elnagar.pro@gmail.com">
-<img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=EA4335"/>
+<a href="https://www.linkedin.com/in/h-elnagar/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/h-elnagar/">
-<img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
+<a href="mailto:hossam.elnagar.pro@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
+&nbsp;&nbsp;
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2F81F7&height=3"/>
 
 # 👨‍💻 About Me
 

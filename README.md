@@ -8,11 +8,10 @@
 
 ## 🌐 Connect With Me
 
-
+<p align="center">
 
 <a href="https://www.linkedin.com/in/h-elnagar/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
-</a>
 
 
 <a href="mailto:hossam.elnagar.pro@gmail.com">

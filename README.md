@@ -1,4 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2F81F7,100:7B61FF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,40:0066FF,100:7B61FF&text=Hossam%20Elnagar&fontColor=FFFFFF&fontSize=58&fontAlignY=35&desc=Data%20Analyst%20|%20BI%20Developer%20|%20AI%20Automation%20Engineer&descAlignY=58&descSize=22"/>
+
+<div align="center">
+
+### 📊 Turning Data into Insights with Analytics, Business Intelligence & AI Automation
+
+</div>
 
 <div align="center">
 

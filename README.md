@@ -6,6 +6,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2F81F7&height=3"/>
 </p>
 
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:hossam.elnagar.pro@gmail.com">
+<img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://www.linkedin.com/in/h-elnagar/">
+<img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
+</a>
 
 # 👨‍💻 About Me
 
@@ -261,21 +272,6 @@ Body Performance Analytics
 
 </table>
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2F81F7&height=3"/>
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/h-elnagar/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:hossam.elnagar.pro@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2F81F7&height=3"/>
 

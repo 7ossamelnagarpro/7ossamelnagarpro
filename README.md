@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.gif" />
+<img src="t.gif" />
 
 # Hi 👋, I'm Hossam Elnagar
 

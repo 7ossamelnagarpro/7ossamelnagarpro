@@ -126,20 +126,20 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Microsoft Azu
 
 <td width="50%" valign="top">
 
-## 📊 E-Commerce Sales Analytics
+## 🏥 Hospital Length of Stay Prediction
 
-End-to-End Data Analytics project covering:
+End-to-End Machine Learning project covering:
 
-- Data Cleaning
-- EDA
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
 - Feature Engineering
-- Business Insights
+- Machine Learning Modeling
 
 **Tech Stack**
 
-`Python` `Pandas` `NumPy` `Matplotlib`
+`Python` `Pandas` `NumPy` `Scikit-Learn`
 
-<a href="YOUR_REPOSITORY_LINK">
+<a href="https://github.com/7ossamelnagarpro/Hospital_LOS_Prediction.git">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 

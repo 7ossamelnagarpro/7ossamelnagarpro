@@ -242,18 +242,19 @@ AI Workflows built using n8n
 
 ## 🧠 Machine Learning
 
-Classification & Prediction Projects
+Body Performance Analytics
 
 - Data Preprocessing
-- Model Training
-- Evaluation
-- Feature Importance
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Model Training & Evaluation
+- Feature Importance Analysis
 
 **Tech Stack**
 
-`Python` `Scikit-Learn`
+`Python` `Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Seaborn`
 
-<a href="https://github.com/7ossamelnagarpro/Body-Performance-Analytics.git">
+<a href="https://github.com/7ossamelnagarpro/Body-Performance-Analytics">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 

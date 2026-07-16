@@ -254,7 +254,7 @@ Body Performance Analytics
 
 `Python` `Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Seaborn`
 
-<a href="https://github.com/7ossamelnagarpro/Body-Performance-Analytics">
+<a href="https://github.com/7ossamelnagarpro/Body-Performance-Analytics.git">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 

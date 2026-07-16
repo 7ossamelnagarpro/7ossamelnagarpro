@@ -14,7 +14,6 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:hossam.elnagar.pro@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>

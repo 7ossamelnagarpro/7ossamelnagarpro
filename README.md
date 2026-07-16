@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2F81F7,100:7B61FF&height=120&section=header"/>
 
 <div align="center">
 
@@ -11,7 +12,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2F81F7&height=3"/>
 
 
 # 👨‍💻 About Me
@@ -35,7 +36,7 @@ I build **end-to-end data projects** that cover the complete analytics lifecycle
 
 I'm continuously expanding my expertise in **Microsoft Fabric**, **Microsoft Azure**, **Azure AI**, and modern Data & AI technologies while building real-world portfolio projects.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2F81F7&height=3"/>
 
 ## 💻 Tech Stack
 
@@ -267,7 +268,7 @@ Body Performance Analytics
 </table>
 
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2F81F7&height=3"/>
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -282,7 +283,7 @@ Body Performance Analytics
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2F81F7&height=3"/>
 
 
 <div align="center">
@@ -294,3 +295,5 @@ If you like my work, consider giving a ⭐ to my repositories.
 **Let's build intelligent solutions together. 🚀**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2F81F7,100:7B61FF&height=120&section=footer"/>

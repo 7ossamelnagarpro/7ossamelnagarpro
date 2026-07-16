@@ -41,45 +41,77 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Azure**, **Az
 ## 💻 Tech Stack
 
 <table>
+
 <tr>
-<td width="180"><h3>🐍 Programming</h3></td>
+<td width="220"><h3>🐍 Programming</h3></td>
 <td><strong>Python</strong></td>
 </tr>
 
 <tr>
 <td><h3>📊 Data Analytics</h3></td>
-<td><strong>Pandas</strong> • <strong>NumPy</strong> • <strong>Matplotlib</strong> • <strong>Seaborn</strong></td>
+<td>
+<strong>Pandas</strong> •
+<strong>NumPy</strong> •
+<strong>Matplotlib</strong> •
+<strong>Seaborn</strong>
+</td>
 </tr>
 
 <tr>
-<td><h3>🗄️ Database</h3></td>
-<td><strong>SQL Server</strong></td>
+<td><h3>🗄️ Databases</h3></td>
+<td>
+<strong>SQL Server</strong>
+</td>
 </tr>
 
 <tr>
 <td><h3>📈 Business Intelligence</h3></td>
-<td><strong>Power BI</strong> • <strong>Microsoft Excel</strong></td>
+<td>
+<strong>Power BI</strong> •
+<strong>Microsoft Excel</strong>
+</td>
 </tr>
 
 <tr>
 <td><h3>☁️ Cloud & Data Platform</h3></td>
-<td><strong>Microsoft Azure</strong> • <strong>Microsoft Fabric</strong></td>
+<td>
+<strong>Microsoft Azure</strong> •
+<strong>Microsoft Fabric</strong>
+</td>
 </tr>
 
 <tr>
 <td><h3>🤖 AI & Machine Learning</h3></td>
-<td><strong>Azure AI</strong> • <strong>Machine Learning</strong> • <strong>Deep Learning</strong></td>
+<td>
+<strong>Azure AI</strong> •
+<strong>Machine Learning</strong> •
+<strong>Deep Learning</strong>
+</td>
 </tr>
 
 <tr>
-<td><h3>⚡ AI Automation</h3></td>
-<td><strong>RAG</strong> • <strong>n8n</strong> • <strong>Prompt Engineering</strong></td>
+<td><h3>⚡ AI Engineering & Automation</h3></td>
+<td>
+<strong>Retrieval-Augmented Generation (RAG)</strong> •
+<strong>LangChain</strong> •
+<strong>LangGraph</strong> •
+<strong>n8n</strong> •
+<strong>Prompt Engineering</strong> •
+<strong>Vector Databases</strong>
+</td>
 </tr>
 
 <tr>
-<td><h3>🛠️ Tools</h3></td>
-<td><strong>Git</strong> • <strong>GitHub</strong> • <strong>VS Code</strong></td>
+<td><h3>🛠️ Development Tools</h3></td>
+<td>
+<strong>Git</strong> •
+<strong>GitHub</strong> •
+<strong>VS Code</strong> •
+<strong>Cursor</strong> •
+<strong>Jupyter Notebook</strong>
+</td>
 </tr>
+
 </table>
 
 ## 🏅 Certifications

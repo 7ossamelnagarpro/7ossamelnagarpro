@@ -1,11 +1,12 @@
+
+<div align="center">
+
+<img src="t.gif" />
 # Hi, I'm Hossam Elnagar
 
 ### Data Analyst • BI Developer • AI Automation Engineer
 
 ### Turning Data into Insights with Analytics, Business Intelligence & AI Automation
-<div align="center">
-
-<img src="t.gif" />
 
 </div>
 

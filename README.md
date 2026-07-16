@@ -210,7 +210,7 @@ AI-powered Retrieval-Augmented Generation System
 
 `Python` `RAG`
 
-<a href="YOUR_REPOSITORY_LINK">
+<a href="https://github.com/7ossamelnagarpro/BBC-RAG-ASSISTANT.git">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 

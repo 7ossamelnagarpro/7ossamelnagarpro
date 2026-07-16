@@ -38,28 +38,31 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Azure**, **Az
 
 ---
 
-💻 Tech Stack
+## 💻 Tech Stack
 
-🐍 Python
+🐍 **Programming**  
+Python
 
-📊 Data Analysis
+📊 **Data Analytics**  
 Pandas • NumPy • Matplotlib • Seaborn
 
-📈 Business Intelligence
-Power BI • Excel
-
-🗄 Database
+🗄️ **Databases**  
 SQL Server
 
-☁ Cloud
+📈 **Business Intelligence**  
+Power BI • Microsoft Excel
+
+☁️ **Cloud & Data Platform**  
 Microsoft Azure • Microsoft Fabric
 
-🤖 AI
-Azure AI • Machine Learning • RAG • n8n
+🤖 **AI & Machine Learning**  
+Azure AI • Machine Learning • Deep Learning
 
-🛠 Tools
+⚡ **AI Automation**  
+RAG • n8n • Prompt Engineering
+
+🛠️ **Tools**  
 Git • GitHub • VS Code
----
 
 ## 🏅 Certifications
 

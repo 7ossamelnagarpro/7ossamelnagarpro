@@ -40,29 +40,47 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Azure**, **Az
 
 ## 💻 Tech Stack
 
-🐍 **Programming**  
-Python
+<table>
+<tr>
+<td width="180"><h3>🐍 Programming</h3></td>
+<td><strong>Python</strong></td>
+</tr>
 
-📊 **Data Analytics**  
-Pandas • NumPy • Matplotlib • Seaborn
+<tr>
+<td><h3>📊 Data Analytics</h3></td>
+<td><strong>Pandas</strong> • <strong>NumPy</strong> • <strong>Matplotlib</strong> • <strong>Seaborn</strong></td>
+</tr>
 
-🗄️ **Databases**  
-SQL Server
+<tr>
+<td><h3>🗄️ Database</h3></td>
+<td><strong>SQL Server</strong></td>
+</tr>
 
-📈 **Business Intelligence**  
-Power BI • Microsoft Excel
+<tr>
+<td><h3>📈 Business Intelligence</h3></td>
+<td><strong>Power BI</strong> • <strong>Microsoft Excel</strong></td>
+</tr>
 
-☁️ **Cloud & Data Platform**  
-Microsoft Azure • Microsoft Fabric
+<tr>
+<td><h3>☁️ Cloud & Data Platform</h3></td>
+<td><strong>Microsoft Azure</strong> • <strong>Microsoft Fabric</strong></td>
+</tr>
 
-🤖 **AI & Machine Learning**  
-Azure AI • Machine Learning • Deep Learning
+<tr>
+<td><h3>🤖 AI & Machine Learning</h3></td>
+<td><strong>Azure AI</strong> • <strong>Machine Learning</strong> • <strong>Deep Learning</strong></td>
+</tr>
 
-⚡ **AI Automation**  
-RAG • n8n • Prompt Engineering
+<tr>
+<td><h3>⚡ AI Automation</h3></td>
+<td><strong>RAG</strong> • <strong>n8n</strong> • <strong>Prompt Engineering</strong></td>
+</tr>
 
-🛠️ **Tools**  
-Git • GitHub • VS Code
+<tr>
+<td><h3>🛠️ Tools</h3></td>
+<td><strong>Git</strong> • <strong>GitHub</strong> • <strong>VS Code</strong></td>
+</tr>
+</table>
 
 ## 🏅 Certifications
 

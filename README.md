@@ -140,20 +140,107 @@ I'm continuously expanding my expertise in **Microsoft Fabric**, **Microsoft Azu
 
 <td width="50%" valign="top">
 
+## 🌍 Seismic Fault Detection
+
+3D deep-learning pipeline for automated seismic fault segmentation.
+
+- Synthetic-to-real transfer
+- SEG-Y and NumPy inference
+- 2D and interactive 3D visualization
+
+**Tech Stack**
+
+`Python` `PyTorch` `3D U-Net` `SEG-Y`
+
+<a href="https://github.com/7ossamelnagarpro/seismic-fault-detection">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔩 Steel Defect Detection
+
+SteelVision inspection platform for six steel surface-defect classes.
+
+- Five-seed validated YOLO11n model
+- Adaptive thresholds and Eigen-CAM
+- Full-stack inspection dashboard
+
+**Tech Stack**
+
+`Python` `YOLO11` `FastAPI` `React`
+
+<a href="https://github.com/7ossamelnagarpro/SteelDefectDetection">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧵 Fabric Defect Detection
+
+Native-resolution detector for 20 industrial fabric-defect classes.
+
+- Tiled and global-view inference
+- Seam-aware Weighted Box Fusion
+- ONNX API and Streamlit interface
+
+**Tech Stack**
+
+`Python` `YOLO11` `ONNX` `FastAPI`
+
+<a href="https://github.com/7ossamelnagarpro/fabric-defect-detection">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔧 Motherboard Defect Detection
+
+YOLOv8 system for detecting 11 motherboard assembly defects.
+
+- Reproducible experiment matrix
+- Held-out test mAP@0.5 of 0.937
+- Interactive Streamlit demo
+
+**Tech Stack**
+
+`Python` `YOLOv8` `Ultralytics` `Streamlit`
+
+<a href="https://github.com/7ossamelnagarpro/motherboard-defect-detection">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
 ## 🏥 Hospital Length of Stay Prediction
 
-End-to-End Machine Learning project covering:
+End-to-end machine-learning project covering:
 
-- Data Preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Machine Learning Modeling
+- Data preprocessing and EDA
+- Feature engineering
+- Model training and evaluation
 
 **Tech Stack**
 
 `Python` `Pandas` `NumPy` `Scikit-Learn`
 
-<a href="https://github.com/7ossamelnagarpro/Hospital_LOS_Prediction.git">
+<a href="https://github.com/7ossamelnagarpro/Hospital_LOS_Prediction">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -161,20 +248,19 @@ End-to-End Machine Learning project covering:
 
 <td width="50%" valign="top">
 
-## 📈 Power BI Dashboard
+## 🤖 BBC News RAG Assistant
 
-Interactive Business Dashboard with:
+Retrieval-Augmented Generation assistant for BBC News content.
 
-- KPIs
-- DAX
-- Power Query
-- Visual Storytelling
+- Document chunking and embeddings
+- FAISS vector search
+- Groq-powered LLM responses
 
 **Tech Stack**
 
-`Power BI` `DAX`
+`Python` `RAG` `FAISS` `Groq`
 
-<a href="YOUR_REPOSITORY_LINK">
+<a href="https://github.com/7ossamelnagarpro/BBC-RAG-ASSISTANT">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -186,21 +272,19 @@ Interactive Business Dashboard with:
 
 <td width="50%" valign="top">
 
-## 🏥 Hospital Management System
+## 🗄️ Hospital Management System
 
-Complete SQL Server Database Project
+Complete SQL Server database project featuring:
 
-- ERD
-- Database Design
-- Stored Procedures
-- Triggers
-- Views
+- Relational database design and ERD
+- Stored procedures, functions, and triggers
+- Views, indexes, and analytical queries
 
 **Tech Stack**
 
-`SQL Server`
+`SQL Server` `T-SQL` `Database Design`
 
-<a href="https://github.com/7ossamelnagarpro/Hospital-Management-System-SQL.git">
+<a href="https://github.com/7ossamelnagarpro/Hospital-Management-System-SQL">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -208,76 +292,26 @@ Complete SQL Server Database Project
 
 <td width="50%" valign="top">
 
-## 🤖 BBC News RAG System
+## 🏋️ Body Performance Analytics
 
-AI-powered Retrieval-Augmented Generation System
+Machine-learning classification of human physical-performance levels.
 
-- Chunking
-- Embeddings
-- Vector Database
-- LLM
+- Exploratory data analysis
+- Feature engineering and model comparison
+- Performance insights and feature importance
 
 **Tech Stack**
 
-`Python` `RAG`
+`Python` `Pandas` `Scikit-Learn` `Seaborn`
 
-<a href="https://github.com/7ossamelnagarpro/BBC-RAG-ASSISTANT.git">
+<a href="https://github.com/7ossamelnagarpro/Body-Performance-Analytics">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
 </tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## ⚡ AI Automation
-
-AI Workflows built using n8n
-
-- AI Agents
-- APIs
-- LLM Integration
-- Automation
-
-**Tech Stack**
-
-`n8n`
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🧠 Machine Learning
-
-Body Performance Analytics
-
-- Data Preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Model Training & Evaluation
-- Feature Importance Analysis
-
-**Tech Stack**
-
-`Python` `Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Seaborn`
-
-<a href="https://github.com/7ossamelnagarpro/Body-Performance-Analytics.git">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
 </table>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2F81F7&height=3"/>
 
